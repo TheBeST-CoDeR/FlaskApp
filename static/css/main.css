@@ -1,0 +1,69 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+h1{
+    text-align: center;
+}
+
+table, td, th {
+    border: 1px solid #000000;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+input {
+    margin-top: 20px;
+    height: 30px;
+    outline: none;
+}
+
+.btn-delete{
+    background-color: #ff0000;
+    border-color: #ff0000;
+    color: #fff;
+    width: 80px;
+    height: 25px;
+    margin: 5px;
+}
+
+.btn-update{
+    background-color: #0099cc;
+    border-color: #0099cc;
+    color: #fff;
+    width: 80px;
+    height: 25px;
+}
+
+.btn{
+    width: 106px;
+    height: 36px;
+    background: #00c851;
+    color: white;
+    border-color: #00c851;
+    font-weight:800;
+}
+
+#content {
+    width: 70%;
+}
+
